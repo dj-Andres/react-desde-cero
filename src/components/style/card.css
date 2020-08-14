@@ -1,0 +1,40 @@
+.Card{
+    border: none;
+    border-radius: 8px;
+    /*background: url('../../img/images.jpg') no-repeat, linear-gradient(to right, #A74CF2, #617BFB);*/
+}
+.fitnes-user-info{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
+.fitnes-Card{
+    max-height: 140px;
+    max-width: 520px;
+}
+.fitnes-Card-info{
+    padding-left: 0;
+    padding-right: 75px;
+}
+.fitnes-Card-info h1{
+    font-size: 23px;
+    color: #fff;
+}
+.fitnes-Card-info p{
+    font-size: 11px;
+    color: #fff;
+}
+.fitnes-add{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 60px;
+}
+.foto{
+    height: 120px;
+    width: 120px;
+    border-radius: 10px;
+
+}
